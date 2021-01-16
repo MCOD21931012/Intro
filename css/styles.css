@@ -1,0 +1,91 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+/* header*/
+
+.brand {
+    padding-left: 1rem;
+}
+
+#brand {
+    padding: 10% 10%
+}
+
+#intro {
+    background-color: rgb(49,108,244);
+    color: #ffff;
+    padding: 10% 10%;
+}
+
+
+.heading-h1 {
+    font-family: 'Fraunces', cursive;
+    font-weight: bold;
+}
+
+#fa-icon {
+    font-size: 10rem;
+    text-align: center;
+    margin-left: 6rem;
+    transition: color 0.5s ease-in-out;
+}
+
+#fa-icon:hover{
+    color:#ffa500;
+}
+
+/* body */
+
+#body {
+    text-align: center;
+    padding: 10% 10%;
+    line-height: 2rem;
+}
+
+.body-i {
+    transition:color 0.5s ease-in-out;
+}
+
+.body-i:hover {
+    color: rgb(49,108,244);
+}
+
+.body-a {
+    font-size: 4rem;
+    transition: color 0.5s ease-in-out;
+}
+
+.body-a:hover {
+    color:#ffa500;
+}
+
+/*about*/
+
+#about {
+    background-color: rgb(49,108,244);
+    color: #ffff;
+    text-align: center;
+    font-family: 'Open+Sans', sans-serif;
+    padding: 10% 10%;
+    line-height: 2rem;
+}
+
+
+
+/*footer*/
+
+#footer{
+    margin-top: 10%;
+    padding: 0% 10%;
+    text-align: center;
+}
+
+.footer {
+    transition: color 0.5s ease-in-out;
+}
+
+.footer:hover {
+    color: rgb(49,108,244);
+}
